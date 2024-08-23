@@ -41,3 +41,7 @@ This is a simple iOS game that demonstrates the use of animations, gestures, and
 - Long press on the screen to generate multiple emojis at the same spot
 - Drag your finger across the screen to create a trail of emojis
 - Shake your device to make the emojis explode
+
+## Demo
+
+https://github.com/user-attachments/assets/eeacac11-71f5-461d-aee1-e96a458b9db6
